@@ -1,2 +1,2 @@
 # movieData
-Command-line program using the SQLite module in Python
+Command-line program using the sqlite3 module in Python.
